@@ -1,4 +1,4 @@
-# RRT
+# Rapidly Exploring Random Tree (Another Algorithm instead of A* and Djikstra
 Self Driving Car using RRT Algorithm
 
 
