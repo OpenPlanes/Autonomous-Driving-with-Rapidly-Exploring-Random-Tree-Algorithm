@@ -6,7 +6,9 @@ A rapidly exploring random tree (RRT) is an algorithm designed to efficiently se
 
 
 Image of the RRT Algorithm
+
 ![RRT without Obstacle Avoidance](https://user-images.githubusercontent.com/106100235/214388456-917aa2b3-fe1c-4c50-b2b5-6a176875861d.jpg)
+
 
 
 https://user-images.githubusercontent.com/106100235/200352355-e2b9e578-fd71-407d-920b-38eef4157a8a.MP4
